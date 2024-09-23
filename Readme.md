@@ -14,10 +14,8 @@ STEP 1: Create and import database
 1.1.a       Dummy account info after the import:  
 
             Email: mosrur@gmail.com  
-            
             Pass: test123  
             
-
 STEP 2: Database configuration
 2.1.    Open the 'database.php' file from \Source\application\config\ directory.
 2.2.    Set appropriate database credentials (Line: 65-85).
@@ -28,4 +26,3 @@ STEP 3: Email setup
 
 STEP 4: htaccess file
 4.1.    Update the .htaccess file from \Source\.htaccess and make appropriate changes in necessary.
-
